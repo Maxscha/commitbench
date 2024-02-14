@@ -5,7 +5,7 @@
     <img alt="DockerHub" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whitee">
 </a>
 <img src='https://img.shields.io/badge/<SUBJECT>-<IDENTIFIER>-b31b1b?logo=arxiv&logoColor=red&style=for-the-badge'>
-<a href="https://huggingface.co/maxscha/commitbench">
+<a href="https://huggingface.co/datasets/maxscha/commitbench">
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue?style=for-the-badge'>
 </a>
 <a href="https://zenodo.org/records/10497442">
@@ -15,7 +15,7 @@
 
 This repository hosts the replication package for our research paper, titled "CommitBench:  A Benchmark for Commit Message Generation". It includes the necessary code, datasets, and tools to replicate our datasets and further explore the dataset we have compiled and analyzed.
 
-- *Dataset*: Available on [Zenodo](https://zenodo.org/records/10497442) and [Huggingface](https://huggingface.co/maxscha/commitbench)
+- *Dataset*: Available on [Zenodo](https://zenodo.org/records/10497442) and [Huggingface](https://huggingface.co/datasets/maxscha/commitbench)
 - *Docker Environment*: Available on [DockerHub](docker.io/maxscha/commitbench])
 - *Pre-Print*: Available on [arXiv](TODO)
 
@@ -64,5 +64,5 @@ To contact the authors reach out to "Maximilian.Schall@hpi.de" or open an issue 
 The official proceedings citation is forthcoming and will be updated once available.
 
 ```
-bib for arxiv paper
+Coming soon: BIB-Entry
 ```
