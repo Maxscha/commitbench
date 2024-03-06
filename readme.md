@@ -16,7 +16,7 @@
 This repository hosts the replication package for our research paper, titled "CommitBench:  A Benchmark for Commit Message Generation". It includes the necessary code, datasets, and tools to replicate our datasets and further explore the dataset we have compiled and analyzed.
 
 - *Dataset*: Available on [Zenodo](https://zenodo.org/records/10497442) and [Huggingface](https://huggingface.co/datasets/maxscha/commitbench)
-- *Docker Environment*: Available on [DockerHub](docker.io/maxscha/commitbench])
+- *Docker Environment*: Available on [DockerHub](docker.io/maxscha/commitbench)
 - *Pre-Print*: Available on [arXiv](TODO)
 
 ## Usage Instructions
@@ -53,16 +53,13 @@ Scripts and resources are organized into specific folders, and they are intended
 - **prepare**: Contains scripts for downloading CodeSearchNet.
 
 
-# License
-The code is licensed under MIT.
-
 # Contact
-To contact the authors reach out to "Maximilian.Schall@hpi.de" or open an issue in this repository
+To contact the authors reach out to "Maximilian.Schall@hpi.de".
 
 
 # Citation
 The official proceedings citation is forthcoming and will be updated once available.
 
 ```
-Coming soon: BIB-Entry
+Coming soon: Bib-Entry
 ```
