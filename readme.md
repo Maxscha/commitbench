@@ -4,7 +4,9 @@
   <a href="https://hub.docker.com/repository/docker/maxscha/commitbench/general">
     <img alt="DockerHub" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whitee">
 </a>
-<img src='https://img.shields.io/badge/<SUBJECT>-<IDENTIFIER>-b31b1b?logo=arxiv&logoColor=red&style=for-the-badge'>
+<a href="https://arxiv.org/abs/2403.05188">
+  <img src='https://img.shields.io/badge/cs-2403.05188-b31b1b?logo=arxiv&logoColor=red&style=for-the-badge'>
+</a>
 <a href="https://huggingface.co/datasets/maxscha/commitbench">
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue?style=for-the-badge'>
 </a>
@@ -17,7 +19,7 @@ This repository hosts the replication package for our research paper, titled "Co
 
 - *Dataset*: Available on [Zenodo](https://zenodo.org/records/10497442) and [Huggingface](https://huggingface.co/datasets/maxscha/commitbench)
 - *Docker Environment*: Available on [DockerHub](docker.io/maxscha/commitbench)
-- *Pre-Print*: Available on [arXiv](TODO)
+- *Pre-Print*: Available on [arXiv](https://arxiv.org/abs/2403.05188)
 
 ## Usage Instructions
 ### Prerequisites
@@ -61,5 +63,5 @@ To contact the authors reach out to "Maximilian.Schall@hpi.de".
 The official proceedings citation is forthcoming and will be updated once available.
 
 ```
-Coming soon: Bib-Entry
+Coming soon
 ```
